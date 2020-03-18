@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Map for B2B Purpose</string>
+
+    <string name="google_maps_key">REPLACE_WITH_YOUR_KEY</string>
+</resources>
